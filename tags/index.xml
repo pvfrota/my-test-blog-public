@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My test blog</title>
+    <link>https://pvfrota.github.io/my-test-blog-public/tags/</link>
+    <description>Recent content in Tags on My test blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pvfrota.github.io/my-test-blog-public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lero-lero</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/lero-lero/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/lero-lero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/emoji/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/css/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/html/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/markdown/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/privacy/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/shortcodes/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/text/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
