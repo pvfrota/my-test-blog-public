@@ -5,7 +5,34 @@
     <link>https://pvfrota.github.io/my-test-blog-public/tags/</link>
     <description>Recent content in Tags on My test blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pvfrota.github.io/my-test-blog-public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pvfrota.github.io/my-test-blog-public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/post/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/tag/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teste</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/tags/teste/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/tags/teste/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>lero-lero</title>
       <link>https://pvfrota.github.io/my-test-blog-public/tags/lero-lero/</link>

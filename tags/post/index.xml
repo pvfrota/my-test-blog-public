@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on My test blog</title>
+    <link>https://pvfrota.github.io/my-test-blog-public/tags/post/</link>
+    <description>Recent content in post on My test blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pvfrota.github.io/my-test-blog-public/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teste</title>
+      <link>https://pvfrota.github.io/my-test-blog-public/blog/post-teste-2/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pvfrota.github.io/my-test-blog-public/blog/post-teste-2/</guid>
+      <description>Manaus Manaus 2 Manaus 3 Manaus 4 Lista huehuehue aaaaaa bbbb ccccc ddddd huahuauhahuahuahuauh aygaygagyagyagyayga huehueuhee uheuhehue bbbbbbbbb cccccccc ddddddddd eeeeeeeeeeeee List item uauhauhauha uhauauhauh Este é um teste para o blog, demonstrando como funciona para postar</description>
+    </item>
+    
+  </channel>
+</rss>
